@@ -1,5 +1,4 @@
 //terserah
-//apa
 <?php
 
 /*
